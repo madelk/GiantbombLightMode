@@ -6,7 +6,7 @@
     "icons": {
         "48": "icon48.png"
     },
-    "version": "0.003",
+    "version": "0.004",
     "content_scripts": [
         {
             "matches": [

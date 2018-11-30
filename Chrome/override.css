@@ -2,3 +2,7 @@
 .kubrick-topslot-text, .kubrick-topslot-text a,  .kubrick-topslot-text a button {
     color: white;
 }
+/* top area of video pages */
+.episode-info, .episode-card  {
+    color: white;
+}
