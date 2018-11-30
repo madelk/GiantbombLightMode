@@ -1,0 +1,2 @@
+# GiantbombLightMode
+For terrible monsters
