@@ -1,0 +1,4 @@
+/* fix for top area of homepage */
+.kubrick-topslot-text, .kubrick-topslot-text a,  .kubrick-topslot-text a button {
+    color: white;
+}
